@@ -186,13 +186,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      # - name: Cache pakku
-      #   uses: actions/cache@v4.1.2
-      #   with:
-      #     path: build/.cache
-      #     key: ${{ runner.OS }}-pakku-cache-${{ hashFiles('build/.cache/') }}
-      #     restore-keys: ${{ runner.OS }}-pakku-cache-
-
       - name: 📦 Export modpack
         run: |
           curl https://github.com/juraj-hrivnak/pakku/releases/latest/download/pakku.jar -o pakku.jar -L -J
@@ -232,13 +225,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      # - name: Cache pakku
-      #   uses: actions/cache@v4.1.2
-      #   with:
-      #     path: build/.cache
-      #     key: ${{ runner.OS }}-pakku-cache-${{ hashFiles('build/.cache/') }}
-      #     restore-keys: ${{ runner.OS }}-pakku-cache-
-
       - name: 📦 Export modpack
         run: |
           mv -vf ./.pakku/server-overrides/* ./
@@ -266,13 +252,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
-
-      # - name: Cache pakku
-      #   uses: actions/cache@v4.1.2
-      #   with:
-      #     path: build/.cache
-      #     key: ${{ runner.OS }}-pakku-cache-${{ hashFiles('build/.cache/') }}
-      #     restore-keys: ${{ runner.OS }}-pakku-cache-
 
       - name: 📦 Export
         run: |
