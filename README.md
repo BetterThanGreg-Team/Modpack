@@ -11,4 +11,4 @@
 
 # Github Actions
 * Build and Deploy to Github Releases was copied from [TerraFirmaGreg](https://github.com/TerraFirmaGreg-Team/Modpack-Modern)
-* Actually I deleted some stuff from it. I'll add it back later.
+* Actually I deleted some stuff from it.
