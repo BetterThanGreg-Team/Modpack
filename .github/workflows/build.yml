@@ -186,14 +186,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      - name: 🔄 Replace strings
-        shell: bash
-        run: |
-          set +e
-
-          VERSION=${{ needs.info.outputs.project_version }}
-          sed -i -e "s/DEV/${VERSION}/g" config/fancymenu/customization/gui_main_menu.txt
-
       # - name: Cache pakku
       #   uses: actions/cache@v4.1.2
       #   with:
@@ -240,14 +232,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      - name: 🔄 Replace strings
-        shell: bash
-        run: |
-          set +e
-
-          VERSION=${{ needs.info.outputs.project_version }}
-          sed -i -e "s/DEV/${VERSION}/g" config/fancymenu/customization/gui_main_menu.txt
-
       # - name: Cache pakku
       #   uses: actions/cache@v4.1.2
       #   with:
@@ -282,15 +266,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
-
-      - name: 🔄 Replace strings
-        shell: bash
-        run: |
-          set +e
-
-          VERSION=${{ needs.info.outputs.project_version }}
-          sed -i -e "s/DEV/${VERSION}/g" config/fancymenu/customization/gui_main_menu.txt
-          sed -i -e "s/DEV/${VERSION}/g" .pakku/multimc-overrides/instance.cfg
 
       # - name: Cache pakku
       #   uses: actions/cache@v4.1.2
