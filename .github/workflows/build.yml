@@ -215,33 +215,33 @@ jobs:
           path: ./build/modrinth/${{ needs.info.outputs.project_full_name }}-modrinth.mrpack
           if-no-files-found: warn
 
-  build-server:
-    name: 📦 Build Server
-    needs: [info]
-    runs-on: ubuntu-latest
-    if: needs.info.outputs.exists != 'true'
+#   build-server:
+#     name: 📦 Build Server
+#     needs: [info]
+#     runs-on: ubuntu-latest
+#     if: needs.info.outputs.exists != 'true'
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4.2.2
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4.2.2
 
-      - name: 📦 Export modpack
-        run: |
-          mv -vf ./.pakku/server-overrides/* ./
-          curl https://github.com/juraj-hrivnak/pakku/releases/latest/download/pakku.jar -o pakku.jar -L -J
-          java -jar pakku.jar export
+#       - name: 📦 Export modpack
+#         run: |
+#           mv -vf ./.pakku/server-overrides/* ./
+#           curl https://github.com/juraj-hrivnak/pakku/releases/latest/download/pakku.jar -o pakku.jar -L -J
+#           java -jar pakku.jar export
 
-      - name: 📁 Rename artifact server
-        run: |
-          cd ./build/serverpack/
-          mv *.zip $(basename -s .zip *.zip)-serverpack.zip
+#       - name: 📁 Rename artifact server
+#         run: |
+#           cd ./build/serverpack/
+#           mv *.zip $(basename -s .zip *.zip)-serverpack.zip
 
-      - name: 🚀 Upload artifact server
-        uses: actions/upload-artifact@v4.6.0
-        with:
-          name: ${{ needs.info.outputs.project_full_name }}-serverpack
-          path: ./build/serverpack/${{ needs.info.outputs.project_full_name }}-serverpack.zip
-          if-no-files-found: error
+#       - name: 🚀 Upload artifact server
+#         uses: actions/upload-artifact@v4.6.0
+#         with:
+#           name: ${{ needs.info.outputs.project_full_name }}-serverpack
+#           path: ./build/serverpack/${{ needs.info.outputs.project_full_name }}-serverpack.zip
+#           if-no-files-found: error
 
   build-multimc:
     name: 📦 Build MultiMC
@@ -279,7 +279,7 @@ jobs:
 
   release-github:
     name: 🚀 Release to GitHub
-    needs: [info, build-modpack, build-server, build-multimc]
+    needs: [info, build-modpack, build-multimc]
     runs-on: ubuntu-latest
     outputs:
       url: ${{ steps.release.outputs.url }}
