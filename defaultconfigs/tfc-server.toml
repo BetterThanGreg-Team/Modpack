@@ -821,10 +821,10 @@ familiarityDecayLimit = 0.3
 		enableVanillaWeatherEffects = false
 		#
 		# If true, vanilla will attempt to spawn skeleton 'trap' horses during thunderstorms.
-		enableVanillaSkeletonHorseSpawning = false
+		enableVanillaSkeletonHorseSpawning = true
 		#
 		# If true, enables the default vanilla behavior of mobs spawning with enchanted weapons sometimes.
-		enableVanillaMobsSpawningWithEnchantments = false
+		enableVanillaMobsSpawningWithEnchantments = true
 		#
 		# If true, enables the default behavior of mobs sapwning with vanilla armor and weapons
 		enableVanillaMobsSpawningWithVanillaEquipment = false
@@ -836,13 +836,13 @@ familiarityDecayLimit = 0.3
 		enableVanillaMonsters = true
 		#
 		# If true, vanilla monsters will spawn on the surface instead of just underground. If false, vanilla monsters will not spawn on the surface.
-		enableVanillaMonstersOnSurface = false
+		enableVanillaMonstersOnSurface = true
 		#
 		# If true, chicken jockies can spawn
 		enableChickenJockies = false
 		#
 		# If true, eggs can be thrown.
-		enableVanillaEggThrowing = false
+		enableVanillaEggThrowing = true
 		#
 		# If true, drinking milk will clear potion effects and restore no nutrition, as in vanilla.
 		enableVanillaDrinkingMilkClearsPotionEffects = false

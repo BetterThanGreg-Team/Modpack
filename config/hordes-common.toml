@@ -1,7 +1,7 @@
 
 ["Horde Event"]
 	#Set to false to completely disable the horde event and anything relating to it.
-	enableHordeEvent = true
+	enableHordeEvent = false
 	#Set to true to disable natural horde spawns (hordes can only be spawned with commands).
 	hordesCommandOnly = false
 	#Amount of mobs to spawn per wave.
