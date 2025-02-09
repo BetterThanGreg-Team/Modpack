@@ -1,5 +1,12 @@
 # Changelog
 
+[0.0.4] - 02/08/2025
+Changes
+    <ul>
+    <li> Added realistic map atlases </li>
+    <li> Added realistic Jade equivalent </li>
+    </ul>
+
 [0.0.3] - 02/08/2025
 Changes
     <ul>

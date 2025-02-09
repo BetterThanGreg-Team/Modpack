@@ -267,6 +267,74 @@
             ]
         },
         {
+            "pakku_id": "hV2cwH5izD1UtFb8",
+            "pakku_links": [
+                "ePLOhLqxuKb0Gn0u"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "amendments",
+                "modrinth": "amendments"
+            },
+            "name": {
+                "curseforge": "Amendments",
+                "modrinth": "Amendments"
+            },
+            "id": {
+                "curseforge": "896746",
+                "modrinth": "6iTJugQR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "amendments-1.20-1.2.16.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6139/982/amendments-1.20-1.2.16.jar",
+                    "id": "6139982",
+                    "parent_id": "896746",
+                    "hashes": {
+                        "sha1": "67213c90f28de05f8b7aefe3ce12c5d209408c94",
+                        "md5": "18a7e750d7c43480671b319f0ef1808c"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 1030705,
+                    "date_published": "2025-01-30T16:04:01.460Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "amendments-1.20-1.2.16.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/ATt8FCvn/amendments-1.20-1.2.16.jar",
+                    "id": "ATt8FCvn",
+                    "parent_id": "6iTJugQR",
+                    "hashes": {
+                        "sha512": "b3289cb609138ec6fce1c3ed86144017305654cfb839177b8bd8b00df8c8ed0253b87e569529d0eb8893867c297afa9e17f12800fb2481fc5ddb992ad85808be",
+                        "sha1": "67213c90f28de05f8b7aefe3ce12c5d209408c94"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 1030705,
+                    "date_published": "2025-01-30T16:04:06.393091Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "t94LLnJl0A8JzN3w",
             "type": "MOD",
             "side": "BOTH",
@@ -3372,71 +3440,6 @@
             ]
         },
         {
-            "pakku_id": "32Y8hinKxeu3npcY",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "jade",
-                "modrinth": "jade"
-            },
-            "name": {
-                "curseforge": "Jade 🔍",
-                "modrinth": "Jade 🔍"
-            },
-            "id": {
-                "curseforge": "324717",
-                "modrinth": "nvQzSEkH"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Jade-1.20.1-Forge-11.12.3.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6106/101/Jade-1.20.1-Forge-11.12.3.jar",
-                    "id": "6106101",
-                    "parent_id": "324717",
-                    "hashes": {
-                        "sha1": "54de1eda95387ad10114e9a0f1bcd99a921ca6f9",
-                        "md5": "253456fec5b1bd598a7abc12abfee0f5"
-                    },
-                    "required_dependencies": [],
-                    "size": 547769,
-                    "date_published": "2025-01-20T09:54:19.340Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "Jade-1.20.1-Forge-11.12.3.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/SOuuRR07/Jade-1.20.1-Forge-11.12.3.jar",
-                    "id": "SOuuRR07",
-                    "parent_id": "nvQzSEkH",
-                    "hashes": {
-                        "sha512": "7871ec035b146c852dcc1eb0b9c2bdeee192777ecde78b4d3a06a0111f94194bc12eabdb5b15804f61b365fa43bcad0b58bde80d01a5cc3a996fa4039339a3d2",
-                        "sha1": "54de1eda95387ad10114e9a0f1bcd99a921ca6f9"
-                    },
-                    "required_dependencies": [],
-                    "size": 547769,
-                    "date_published": "2025-01-20T09:54:25.511361Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "uQFn0CDiZcqvnx5K",
             "type": "MOD",
             "side": "BOTH",
@@ -3510,6 +3513,48 @@
             ]
         },
         {
+            "pakku_id": "rIq6mFi5swPb0n8j",
+            "pakku_links": [
+                "ePLOhLqxuKb0Gn0u"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "map-atlases-forge"
+            },
+            "name": {
+                "curseforge": "Map Atlases [Forge]"
+            },
+            "id": {
+                "curseforge": "519759"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "map_atlases-1.20-6.0.13.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6145/606/map_atlases-1.20-6.0.13.jar",
+                    "id": "6145606",
+                    "parent_id": "519759",
+                    "hashes": {
+                        "sha1": "912b68360bbfd1450f32c33a57f02c1c68014c45",
+                        "md5": "5d3cfd8577e9780ef1b9884855bb2b14"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 724107,
+                    "date_published": "2025-02-01T11:32:34.110Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VAt1fsV4hqwRTz9D",
             "type": "MOD",
             "side": "BOTH",
@@ -3567,6 +3612,47 @@
                     "required_dependencies": [],
                     "size": 821631,
                     "date_published": "2025-01-26T00:47:27.319846Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ePLOhLqxuKb0Gn0u",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "selene",
+                "modrinth": "selene"
+            },
+            "name": {
+                "curseforge": "Moonlight Lib",
+                "modrinth": "Selene"
+            },
+            "id": {
+                "curseforge": "499980",
+                "modrinth": "hRandqZM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "moonlight-1.20-2.13.58-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6142/466/moonlight-1.20-2.13.58-forge.jar",
+                    "id": "6142466",
+                    "parent_id": "499980",
+                    "hashes": {
+                        "sha1": "aa40a4f99bda66fa9245eb1abb79f8edd90ac58d",
+                        "md5": "033b6c6e801cfd420e3f91629a9ecc52"
+                    },
+                    "required_dependencies": [],
+                    "size": 1225091,
+                    "date_published": "2025-01-31T12:16:50.797Z"
                 }
             ]
         },
@@ -4780,6 +4866,49 @@
             ]
         },
         {
+            "pakku_id": "QiWxV2WMbsDiFEQJ",
+            "pakku_links": [
+                "ePLOhLqxuKb0Gn0u"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "supplementaries"
+            },
+            "name": {
+                "curseforge": "Supplementaries"
+            },
+            "id": {
+                "curseforge": "412082"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "supplementaries-1.20-3.1.13.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6163/908/supplementaries-1.20-3.1.13.jar",
+                    "id": "6163908",
+                    "parent_id": "412082",
+                    "hashes": {
+                        "sha1": "5b2487420aebe6b868aaefd3c4e3fd51accfa1b1",
+                        "md5": "f887d625f445b6a1843fdd8f5dc25d77"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 18068455,
+                    "date_published": "2025-02-06T11:12:15.093Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "o3phiAZWz5stYePC",
             "pakku_links": [
                 "pJI1r7XZme8nsZqn",
@@ -5484,6 +5613,67 @@
                     ],
                     "size": 585941,
                     "date_published": "2024-07-09T09:57:41.698175Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "AhJgbBni9SyqH5o2",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "the-one-probe",
+                "modrinth": "the-one-probe"
+            },
+            "name": {
+                "curseforge": "The One Probe",
+                "modrinth": "The One Probe"
+            },
+            "id": {
+                "curseforge": "245211",
+                "modrinth": "Eyw0UxEx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "theoneprobe-1.20.1-10.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6106/996/theoneprobe-1.20.1-10.0.3.jar",
+                    "id": "6106996",
+                    "parent_id": "245211",
+                    "hashes": {
+                        "sha1": "160ead07479f9f5d678fff4c57fbf97d019c69a6",
+                        "md5": "1c119603034614bd2c9272dd21bdfae6"
+                    },
+                    "required_dependencies": [],
+                    "size": 331601,
+                    "date_published": "2025-01-20T16:24:07.633Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "theoneprobe-1.20.1-10.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Eyw0UxEx/versions/r7iv0zP9/theoneprobe-1.20.1-10.0.3.jar",
+                    "id": "r7iv0zP9",
+                    "parent_id": "Eyw0UxEx",
+                    "hashes": {
+                        "sha512": "eb2ac8566c3ae1de2714d369d1bcf5129666fed1ed31bd873194553c549b3614f59f249b0ec0b9723de43c799e86c5ebb5ca52bcb8b9bd1cd986ef35d597e263",
+                        "sha1": "b313190617941a8199ae3314c3d3164a64a0fe38"
+                    },
+                    "required_dependencies": [],
+                    "size": 331601,
+                    "date_published": "2025-01-20T16:24:21.536620Z"
                 }
             ]
         },
