@@ -9,7 +9,7 @@
 	vanillaHealthBarMode = "NORMAL"
 	#The design to use to visualize the health
 	#Allowed Values: OFF, NUMBERS, HEARTS, PLAYER_MODEL, PLAYER_MODEL_4_COLORS
-	overlayMode = "HEARTS"
+	overlayMode = "PLAYER_MODEL"
 	#The relative point of the overlay
 	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_RIGHT, BOTTOM_LEFT
 	overlayPosition = "BOTTOM_RIGHT"
@@ -33,7 +33,7 @@
 	#Range: -1 ~ 600
 	visibleDurationTicks = -1
 	#If set to true, the overlay will flash for a short moment if the health changed. Only affects PLAYER_MODEL overlay
-	flash = false
+	flash = true
 
 [Misc]
 	#Set to true to enable the debuff sounds. Only matters when debuffs are enabled
