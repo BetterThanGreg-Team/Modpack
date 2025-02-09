@@ -1,5 +1,13 @@
 # Changelog
 
+[0.0.3] - 02/08/2025
+Changes
+    <ul>
+    <li> Added dynamic lights </li>
+    <li> Added sound physics </li>
+    <li> Added emotions, and some stuff for multiplayer </li>
+    </ul>
+
 [0.0.2] - 02/08/2025
 Changes
     <ul>
