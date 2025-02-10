@@ -1,5 +1,13 @@
 # Changelog
 
+[0.0.6] - 02/09/2025
+Changes
+    <ul>
+    <li> Added stamina </li>
+    <li> Added paragliders </li>
+    <li> Some balance tweaks </li>
+    </ul>
+
 [0.0.5] - 02/09/2025
 Changes
     <ul>
