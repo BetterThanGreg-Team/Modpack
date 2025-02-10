@@ -9,7 +9,7 @@
 	vanillaHealthBarMode = "NORMAL"
 	#The design to use to visualize the health
 	#Allowed Values: OFF, NUMBERS, HEARTS, PLAYER_MODEL, PLAYER_MODEL_4_COLORS
-	overlayMode = "PLAYER_MODEL"
+	overlayMode = "HEARTS"
 	#The relative point of the overlay
 	#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_RIGHT, BOTTOM_LEFT
 	overlayPosition = "BOTTOM_RIGHT"

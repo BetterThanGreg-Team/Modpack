@@ -1,5 +1,13 @@
 # Changelog
 
+[0.0.5] - 02/09/2025
+Changes
+    <ul>
+    <li> Added more visuals </li>
+    <li> Added realistic moon cycle </li>
+    <li> Fixed health regeneration </li>
+    </ul>
+
 [0.0.4] - 02/08/2025
 Changes
     <ul>
