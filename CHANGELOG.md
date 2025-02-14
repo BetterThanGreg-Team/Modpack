@@ -1,5 +1,13 @@
 # Changelog
 
+[0.0.7] - 02/13/2025
+Changes
+    <ul>
+    <li> Fixed max health bug </li>
+    <li> Added some building essentials </li>
+    <li> Added framing blocks </li>
+    </ul>
+
 [0.0.6] - 02/09/2025
 Changes
     <ul>
