@@ -1,5 +1,11 @@
 # Changelog
 
+[0.0.8] - 02/13/2025
+Changes
+    <ul>
+    <li> Added some new mods </li>
+    </ul>
+
 [0.0.7] - 02/13/2025
 Changes
     <ul>
