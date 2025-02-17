@@ -1,5 +1,12 @@
 # Changelog
 
+[0.0.10] - 02/13/2025
+Changes
+    <ul>
+    <li> Added lots of optimizations </li>
+    <li> Added LOD </li>
+    </ul>
+
 [0.0.9] - 02/13/2025
 Changes
     <ul>
