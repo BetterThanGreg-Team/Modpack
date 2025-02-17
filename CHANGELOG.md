@@ -1,5 +1,12 @@
 # Changelog
 
+[0.0.9] - 02/13/2025
+Changes
+    <ul>
+    <li> Added technical mods </li>
+    <li> Added realistic movement </li>
+    </ul>
+
 [0.0.8] - 02/13/2025
 Changes
     <ul>

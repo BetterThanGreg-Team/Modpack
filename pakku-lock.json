@@ -376,6 +376,69 @@
             ]
         },
         {
+            "pakku_id": "nldBcDxwUdfa0HJU",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "applied-energistics-2",
+                "modrinth": "ae2"
+            },
+            "name": {
+                "curseforge": "Applied Energistics 2",
+                "modrinth": "Applied Energistics 2"
+            },
+            "id": {
+                "curseforge": "223794",
+                "modrinth": "XxWD5pD3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "appliedenergistics2-forge-15.3.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6091/401/appliedenergistics2-forge-15.3.3.jar",
+                    "id": "6091401",
+                    "parent_id": "223794",
+                    "hashes": {
+                        "sha1": "37ba16fa86aeab788d7b916bb45c25638df5cfb0",
+                        "md5": "c7e870e3200139ebe8f260c4ea52b622"
+                    },
+                    "required_dependencies": [],
+                    "size": 9746146,
+                    "date_published": "2025-01-15T23:06:41.440Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "appliedenergistics2-forge-15.3.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/JSY0V9J5/appliedenergistics2-forge-15.3.3.jar",
+                    "id": "JSY0V9J5",
+                    "parent_id": "XxWD5pD3",
+                    "hashes": {
+                        "sha512": "e1da8e1666b3d221fe82ec14a4f88b15c34c0ef445c526ae0f3baa8f50d52276b35360433413db6af0e7232fc4e5a685fdd05754d912c7b1e387ad8fbaf2527c",
+                        "sha1": "37ba16fa86aeab788d7b916bb45c25638df5cfb0"
+                    },
+                    "required_dependencies": [],
+                    "size": 9746146,
+                    "date_published": "2025-01-15T23:06:49.856833Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Lcxd0JxiI0HViKiF",
             "type": "MOD",
             "side": "BOTH",
@@ -1090,6 +1153,77 @@
                     ],
                     "size": 14419429,
                     "date_published": "2024-04-25T16:53:04.815096Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vMzZEdoPCVjuRG5l",
+            "pakku_links": [
+                "l7wPQKMnoQQSvax5",
+                "dgaM0UUToyrhApYM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "botania",
+                "modrinth": "botania"
+            },
+            "name": {
+                "curseforge": "Botania",
+                "modrinth": "Botania"
+            },
+            "id": {
+                "curseforge": "225643",
+                "modrinth": "pfjLUfGv"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Botania-1.20.1-447-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6172/172/Botania-1.20.1-447-FORGE.jar",
+                    "id": "6172172",
+                    "parent_id": "225643",
+                    "hashes": {
+                        "sha1": "07afee866afb1ece0bebf2b5651e9e2309e3061b",
+                        "md5": "ef100ba99918d7a99c30792344d428f9"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "306770"
+                    ],
+                    "size": 12437003,
+                    "date_published": "2025-02-08T19:06:25.673Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Botania-1.20.1-447-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/ucCteATJ/Botania-1.20.1-447-FORGE.jar",
+                    "id": "ucCteATJ",
+                    "parent_id": "pfjLUfGv",
+                    "hashes": {
+                        "sha512": "ea813bb58605d5626b1b2eae1f15cb55900e15e156ae44fafd960bf111d5cbc15adf533467183f67844ac31e065d12bf3d0703fc719830c574ddbab2d6db2153",
+                        "sha1": "07afee866afb1ece0bebf2b5651e9e2309e3061b"
+                    },
+                    "required_dependencies": [
+                        "nU0bVIaL",
+                        "vvuO3ImH"
+                    ],
+                    "size": 12437003,
+                    "date_published": "2025-02-08T19:06:23.305382Z"
                 }
             ]
         },
@@ -3202,6 +3336,110 @@
             ]
         },
         {
+            "pakku_id": "jfxPsSTzmL0kZrVq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ender-io"
+            },
+            "name": {
+                "curseforge": "Ender IO"
+            },
+            "id": {
+                "curseforge": "64578"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EnderIO-1.20.1-6.2.7-beta-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6035/212/EnderIO-1.20.1-6.2.7-beta-all.jar",
+                    "id": "6035212",
+                    "parent_id": "64578",
+                    "hashes": {
+                        "sha1": "8f2743fab6f73b14176eb8fe62072ac4273901e3",
+                        "md5": "7737e2c5ced817e0eea3bbba678e8190"
+                    },
+                    "required_dependencies": [],
+                    "size": 8075482,
+                    "date_published": "2024-12-30T01:28:00.243Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WlHXPzjxefaPJljh",
+            "pakku_links": [
+                "6AQJN5H69wBDzuEy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ender-zoology",
+                "modrinth": "ender-zoology"
+            },
+            "name": {
+                "curseforge": "Ender Zoology [Forge & Fabric]",
+                "modrinth": "Ender Zoology"
+            },
+            "id": {
+                "curseforge": "857968",
+                "modrinth": "CUQhzQjg"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EnderZoology-v8.0.3-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5751/720/EnderZoology-v8.0.3-1.20.1-Forge.jar",
+                    "id": "5751720",
+                    "parent_id": "857968",
+                    "hashes": {
+                        "sha1": "f706cfc6bdfcb0de8b03e6ea6af3a7f2b73c837e",
+                        "md5": "2cf5a71139fff40503be94365883e773"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 487256,
+                    "date_published": "2024-09-24T09:00:16.670Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EnderZoology-v8.0.3-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CUQhzQjg/versions/587S3cKr/EnderZoology-v8.0.3-1.20.1-Forge.jar",
+                    "id": "587S3cKr",
+                    "parent_id": "CUQhzQjg",
+                    "hashes": {
+                        "sha512": "b7f4c44ecfac28e45a42f3cc18cef3b6de5a73ab7c70284c1961c07d84919a8f4f4a9221eb2617960bcd740abe857ad8b4bd46ce2b56023ec11ec6fda6100879",
+                        "sha1": "f706cfc6bdfcb0de8b03e6ea6af3a7f2b73c837e"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 487256,
+                    "date_published": "2024-09-24T09:00:21.027533Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mcLY822yen8P8fbA",
             "pakku_links": [
                 "L68OPnClT6w1yarS"
@@ -4252,6 +4490,135 @@
             ]
         },
         {
+            "pakku_id": "bGux5jMCFFYBaqAj",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "gregtechceu-modern",
+                "modrinth": "gregtechceu-modern"
+            },
+            "name": {
+                "curseforge": "GregTechCEu Modern",
+                "modrinth": "GregTechCEu Modern"
+            },
+            "id": {
+                "curseforge": "890405",
+                "modrinth": "7tG215v7"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gtceu-1.20.1-1.6.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6081/505/gtceu-1.20.1-1.6.3.jar",
+                    "id": "6081505",
+                    "parent_id": "890405",
+                    "hashes": {
+                        "sha1": "76218dc7c7f3adcdb250dd2304f16b8a99032443",
+                        "md5": "5cf9145de1263e58c5fe8d2be469d303"
+                    },
+                    "required_dependencies": [],
+                    "size": 15023720,
+                    "date_published": "2025-01-12T21:12:39.663Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gtceu-1.20.1-1.6.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/7tG215v7/versions/8NrKirLQ/gtceu-1.20.1-1.6.3.jar",
+                    "id": "8NrKirLQ",
+                    "parent_id": "7tG215v7",
+                    "hashes": {
+                        "sha512": "9e35e711d36fef812cd9f9e1faf52134e75897021c4aa6b83440d9ff2aea7a21e76fcca608945762ddd04c0f938975c7f90e8fe393c512807e019a19af27fd1a",
+                        "sha1": "76218dc7c7f3adcdb250dd2304f16b8a99032443"
+                    },
+                    "required_dependencies": [],
+                    "size": 15023720,
+                    "date_published": "2025-01-12T21:12:36.879280Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7m2P51p30pxofNno",
+            "pakku_links": [
+                "bGux5jMCFFYBaqAj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "gcyr",
+                "modrinth": "gcyr"
+            },
+            "name": {
+                "curseforge": "Gregicality Rocketry",
+                "modrinth": "Gregicality Rocketry"
+            },
+            "id": {
+                "curseforge": "922713",
+                "modrinth": "4VJrCEMZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gcyr-1.20.1-0.2.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6016/659/gcyr-1.20.1-0.2.6.jar",
+                    "id": "6016659",
+                    "parent_id": "922713",
+                    "hashes": {
+                        "sha1": "f8377b30b7fe77566134b16e444ae46e5454d821",
+                        "md5": "abb505edc9c6607d73156e35dd5bdeaa"
+                    },
+                    "required_dependencies": [
+                        "890405"
+                    ],
+                    "size": 1225501,
+                    "date_published": "2024-12-23T15:31:38.330Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gcyr-1.20.1-0.2.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/4VJrCEMZ/versions/jmHUnVwR/gcyr-1.20.1-0.2.6.jar",
+                    "id": "jmHUnVwR",
+                    "parent_id": "4VJrCEMZ",
+                    "hashes": {
+                        "sha512": "71c84706111eeb911a80e2efab1696102be99c634c3e354336f4fb5487e7a6839be7dd75cb830525f43e541e14ca4fcac66249009671e2b43243d3ffbafb0996",
+                        "sha1": "f8377b30b7fe77566134b16e444ae46e5454d821"
+                    },
+                    "required_dependencies": [
+                        "7tG215v7"
+                    ],
+                    "size": 1225501,
+                    "date_published": "2024-12-23T15:31:42.716769Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gjsyaINQ8ky8wwlu",
             "type": "MOD",
             "side": "CLIENT",
@@ -5284,6 +5651,84 @@
             ]
         },
         {
+            "pakku_id": "tJaI5VODzym9jMyc",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "parcool"
+            },
+            "name": {
+                "curseforge": "ParCool! ~ Minecraft Parkour ~"
+            },
+            "id": {
+                "curseforge": "482378"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ParCool-1.20.1-3.3.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6189/397/ParCool-1.20.1-3.3.1.1.jar",
+                    "id": "6189397",
+                    "parent_id": "482378",
+                    "hashes": {
+                        "sha1": "ff6029c7f596ce6a48dd6feadb1bfb816e46305e",
+                        "md5": "660056d37b9a9e1fb0e799b8d729ab34"
+                    },
+                    "required_dependencies": [],
+                    "size": 846376,
+                    "date_published": "2025-02-13T15:27:53.800Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DDbTkSHfvQGWeO6Z",
+            "pakku_links": [
+                "tJaI5VODzym9jMyc"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "parcool-compatibility-addon"
+            },
+            "name": {
+                "curseforge": "ParCool+ / Compatibility Addon"
+            },
+            "id": {
+                "curseforge": "1132901"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6036/25/ParCool-CompatibilityAddon-1.20.1-3.3.1.0-1.0.jar",
+                    "id": "6036025",
+                    "parent_id": "1132901",
+                    "hashes": {
+                        "sha1": "2783cb8af6f47456f5b7acf3e24ce418f4ea5a3f",
+                        "md5": "36415278a77b7a9a6b9a7d493ba09ac6"
+                    },
+                    "required_dependencies": [
+                        "482378"
+                    ],
+                    "size": 15192,
+                    "date_published": "2024-12-30T10:25:59.090Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1NrNduH1wVJy6nKS",
             "type": "MOD",
             "slug": {
@@ -5516,6 +5961,76 @@
                     ],
                     "size": 5298162,
                     "date_published": "2025-01-03T12:43:40.830979Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xU2t67MMqkmcmVcS",
+            "pakku_links": [
+                "dgaM0UUToyrhApYM"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "pneumaticcraft-repressurized",
+                "modrinth": "pneumaticcraft-repressurized"
+            },
+            "name": {
+                "curseforge": "PneumaticCraft: Repressurized",
+                "modrinth": "PneumaticCraft: Repressurized"
+            },
+            "id": {
+                "curseforge": "281849",
+                "modrinth": "ncAcdgk7"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6142/963/pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar",
+                    "id": "6142963",
+                    "parent_id": "281849",
+                    "hashes": {
+                        "sha1": "3c0a07fe8366f340944e436dd02f5a3c9f6b31cc",
+                        "md5": "86f7fcfeff88eeb0daa9d0cfc6162118"
+                    },
+                    "required_dependencies": [
+                        "306770"
+                    ],
+                    "size": 10789010,
+                    "date_published": "2025-01-31T16:04:23.930Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ncAcdgk7/versions/RWh8lJj7/pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar",
+                    "id": "RWh8lJj7",
+                    "parent_id": "ncAcdgk7",
+                    "hashes": {
+                        "sha512": "927d7c7e9bc377971aa92a6b6c1050a85b74d24200250aabc1759fafdc5eb011bf60f6cc9f83facfda5e7f7190daed03663aac252e4ab2c5bcef17ac6a57ef3c",
+                        "sha1": "3c0a07fe8366f340944e436dd02f5a3c9f6b31cc"
+                    },
+                    "required_dependencies": [
+                        "nU0bVIaL"
+                    ],
+                    "size": 10789010,
+                    "date_published": "2025-01-31T16:04:24.631428Z"
                 }
             ]
         },
