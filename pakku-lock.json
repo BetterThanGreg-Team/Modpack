@@ -5168,6 +5168,77 @@
             ]
         },
         {
+            "pakku_id": "p2XRK0HA25RBKYyf",
+            "pakku_links": [
+                "Lcxd0JxiI0HViKiF",
+                "EyMWlfRuATODDzHS"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kubejs",
+                "modrinth": "kubejs"
+            },
+            "name": {
+                "curseforge": "KubeJS",
+                "modrinth": "KubeJS"
+            },
+            "id": {
+                "curseforge": "238086",
+                "modrinth": "umyGl7zF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kubejs-forge-2001.6.5-build.16.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5853/326/kubejs-forge-2001.6.5-build.16.jar",
+                    "id": "5853326",
+                    "parent_id": "238086",
+                    "hashes": {
+                        "sha1": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66",
+                        "md5": "f4c6924bef764748d26ee51e4d4c0b00"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "416294"
+                    ],
+                    "size": 1654660,
+                    "date_published": "2024-10-28T09:20:33.537Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "kubejs-forge-2001.6.5-build.16.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/g5igndAv/kubejs-forge-2001.6.5-build.16.jar",
+                    "id": "g5igndAv",
+                    "parent_id": "umyGl7zF",
+                    "hashes": {
+                        "sha512": "819f730d2a9d980bb246d30d67793f06f6a1608381c7ce3577cf25e70dd3d595271f8fcfbf3ae037168842f660e79e49846756bd18c79793b310ff18ab826cbd",
+                        "sha1": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "sk9knFPE"
+                    ],
+                    "size": 1654660,
+                    "date_published": "2024-10-28T09:20:35.912552Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gplLBE4aHIscBUsF",
             "pakku_links": [
                 "6h1oldeWTnXqMPMe"
@@ -6576,6 +6647,67 @@
             ]
         },
         {
+            "pakku_id": "EyMWlfRuATODDzHS",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rhino",
+                "modrinth": "rhino"
+            },
+            "name": {
+                "curseforge": "Rhino",
+                "modrinth": "Rhino"
+            },
+            "id": {
+                "curseforge": "416294",
+                "modrinth": "sk9knFPE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rhino-forge-2001.2.3-build.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6186/971/rhino-forge-2001.2.3-build.10.jar",
+                    "id": "6186971",
+                    "parent_id": "416294",
+                    "hashes": {
+                        "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+                        "md5": "59387620b0ef6becbff02c7c1636ad3e"
+                    },
+                    "required_dependencies": [],
+                    "size": 1798244,
+                    "date_published": "2025-02-12T21:26:47.347Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "rhino-forge-2001.2.3-build.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar",
+                    "id": "uNALdylI",
+                    "parent_id": "sk9knFPE",
+                    "hashes": {
+                        "sha512": "4eb6a635f3eff3baa158539bd55344421cf69b15e28f7da8bf55f370a11c071f3525063a6f81b67fbfca550ad8aaab7e6208df87f65ca6ed2851edd46f032b58",
+                        "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1"
+                    },
+                    "required_dependencies": [],
+                    "size": 1798244,
+                    "date_published": "2025-02-12T21:26:49.669723Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "jw1Nw3nNDSHgCp9j",
             "pakku_links": [
                 "zQZNFHCx9paYK6Vn"
@@ -7286,7 +7418,7 @@
             ]
         },
         {
-            "pakku_id": "Eh8CCh8euGb0deMo",
+            "pakku_id": "dUxhs10uP7vMdWmr",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {

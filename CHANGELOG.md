@@ -1,5 +1,12 @@
 # Changelog
 
+[0.0.13] - 02/17/2025
+Changes
+    <ul>
+    <li> Added dependency check using KubeJS </li>
+    <li> Added PhysicsMod waves </li>
+    </ul>
+
 [0.0.12] - 02/17/2025
 Changes
     <ul>
