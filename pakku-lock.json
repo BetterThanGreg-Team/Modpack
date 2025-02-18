@@ -4224,6 +4224,71 @@
             ]
         },
         {
+            "pakku_id": "sL1sknbWIvHCR4MF",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "flowing-fluids",
+                "modrinth": "flowing-fluids"
+            },
+            "name": {
+                "curseforge": "Flowing Fluids",
+                "modrinth": "Flowing Fluids"
+            },
+            "id": {
+                "curseforge": "1108809",
+                "modrinth": "s1I3BT95"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "flowing_fluids_forge_1.20.1-0.3.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5903/903/flowing_fluids_forge_1.20.1-0.3.jar",
+                    "id": "5903903",
+                    "parent_id": "1108809",
+                    "hashes": {
+                        "sha1": "e28398c02dc6dd4baa03fe6634eae85ac526fe6e",
+                        "md5": "210d97201432db0f6ebf50413da32a4d"
+                    },
+                    "required_dependencies": [],
+                    "size": 282774,
+                    "date_published": "2024-11-15T00:15:53.333Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "flowing_fluids_forge_1.20.1-0.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/s1I3BT95/versions/9GJf0Hr0/flowing_fluids_forge_1.20.1-0.3.jar",
+                    "id": "9GJf0Hr0",
+                    "parent_id": "s1I3BT95",
+                    "hashes": {
+                        "sha512": "b9c405d51c02e1f66a03d926db2980f9b5052d876fe6cc446b52cd7ed18e205a82ddd767aa7ce1479aee894d994fc849cdebab8e96a1129fb69efe4caab9fb30",
+                        "sha1": "e28398c02dc6dd4baa03fe6634eae85ac526fe6e"
+                    },
+                    "required_dependencies": [],
+                    "size": 282774,
+                    "date_published": "2024-11-15T00:15:55.663894Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "TYegkdkhEP1cCI4T",
             "pakku_links": [
                 "wIKaXxuGxbu8ESEX",

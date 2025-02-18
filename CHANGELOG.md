@@ -1,5 +1,12 @@
 # Changelog
 
+[0.0.12] - 02/17/2025
+Changes
+    <ul>
+    <li> Tweaked NoCubes config so almost all blocks are smoothed </li>
+    <li> Added realistic fluid physics </li>
+    </ul>
+
 [0.0.11] - 02/17/2025
 Changes
     <ul>

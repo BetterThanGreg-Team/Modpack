@@ -10,6 +10,7 @@
 * DynamicTrees Server config was copied from [HardRock TerraFirmaCraft 4](https://www.curseforge.com/minecraft/modpacks/hardrock-terrafirmacraft-4-realistic-extreme)
 * Firmalife Server config was copied from [HardRock TerraFirmaCraft 4](https://www.curseforge.com/minecraft/modpacks/hardrock-terrafirmacraft-4-realistic-extreme)
 * Sophisticated Backpacks Server config was copied from [TerraFirmaGreg-Modern](https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern)
+* NoCubes Server config was copied from [Autumnly](https://discord.com/channels/432522930610765835/1298379032735518750)
 
 
 # Github Actions
