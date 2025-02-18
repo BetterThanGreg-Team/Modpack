@@ -1,9 +1,11 @@
 StartupEvents.init(event => {
   let requiredMod = "physicsmod";
-  let downloadLink = "https://www.patreon.com/file?h=114047283&m=366094398";
+  let downloadLink = "https://www.patreon.com/Haubna";
 
   if (!Platform.getMods().containsKey(requiredMod)) {
-      console.error(`${requiredMod} is missing!`);
-      console.error(`Please download it from: ${downloadLink}`);
+      console.error(`
+        Physics Mod Pro (${requiredMod}) is missing!
+        Please download it from Haubna's patreon page (${downloadLink})
+      `);
   }
 });
