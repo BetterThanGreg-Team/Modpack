@@ -1,5 +1,12 @@
 # Changelog
 
+[0.0.15] - 02/18/2025
+Changes
+    <ul>
+    <li> Removed unnecessary mods </li>
+    <li> Added more optimizations </li>
+    </ul>
+
 [0.0.14] - 02/17/2025
 Changes
     <ul>
