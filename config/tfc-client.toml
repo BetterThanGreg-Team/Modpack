@@ -14,7 +14,7 @@
 	enableHungerBar = true
 	#
 	# Replaces the vanilla health bar with a TFC one.
-	enableHealthBar = true
+	enableHealthBar = false
 	#
 	# Adds a TFC thirst bar over the hotbar.
 	enableThirstBar = true

@@ -2821,6 +2821,97 @@
             ]
         },
         {
+            "pakku_id": "hVlmR78KDx5YuNnX",
+            "pakku_links": [
+                "viJ4uKFbKBHkacKk"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "day-counter",
+                "modrinth": "day-counter"
+            },
+            "name": {
+                "curseforge": "Day Counter",
+                "modrinth": "Day Counter"
+            },
+            "id": {
+                "curseforge": "559334",
+                "modrinth": "DAhFhwDG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "day_counter_v4.0_1.20.1_[FORGE].jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5745/648/day_counter_v4.0_1.20.1_[FORGE].jar",
+                    "id": "5745648",
+                    "parent_id": "559334",
+                    "hashes": {
+                        "sha1": "f78685c4e79b9b9bb7ee4e12d6df94f79bc8aeaf",
+                        "md5": "36aef00371e3690e18183165924475c6"
+                    },
+                    "required_dependencies": [
+                        "896641"
+                    ],
+                    "size": 450669,
+                    "date_published": "2024-09-22T09:29:32.297Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qx1Sz9boBRGjueRc",
+            "pakku_links": [
+                "owPvMB3yAJkmbxIR"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "death-counter",
+                "modrinth": "death-counter"
+            },
+            "name": {
+                "curseforge": "Death Counter (Forge)",
+                "modrinth": "Death Counter"
+            },
+            "id": {
+                "curseforge": "229068",
+                "modrinth": "7x0zk3YH"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DeathCounter-1.20.1-Forge-1.4.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5477/582/DeathCounter-1.20.1-Forge-1.4.0.jar",
+                    "id": "5477582",
+                    "parent_id": "229068",
+                    "hashes": {
+                        "sha1": "b96e875e3891804646a72f772d81b42e94be2c7b",
+                        "md5": "ff99a6c255b21b15b56b836851d6bb72"
+                    },
+                    "required_dependencies": [
+                        "229060"
+                    ],
+                    "size": 56329,
+                    "date_published": "2024-06-26T21:32:12.340Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UbKsZH1xwpjrwnbW",
             "pakku_links": [
                 "2ktKYEfEH5QibydM"
@@ -5009,6 +5100,67 @@
                     ],
                     "size": 1225501,
                     "date_published": "2024-12-23T15:31:42.716769Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "viJ4uKFbKBHkacKk",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "hud-texts",
+                "modrinth": "hud-texts"
+            },
+            "name": {
+                "curseforge": "Hud Texts",
+                "modrinth": "Hud Texts"
+            },
+            "id": {
+                "curseforge": "896641",
+                "modrinth": "sgFIOK5w"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "hud_texts_v3.2_1.20.1_[FORGE].jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5955/62/hud_texts_v3.2_1.20.1_[FORGE].jar",
+                    "id": "5955062",
+                    "parent_id": "896641",
+                    "hashes": {
+                        "sha1": "378dce93f96682f82109f5ec446833c82edab288",
+                        "md5": "49997d60ab2dfd318979dd6a2487448a"
+                    },
+                    "required_dependencies": [],
+                    "size": 411679,
+                    "date_published": "2024-12-01T23:32:28.233Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "hud_texts_v3.2_1.20.1_[FORGE].jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sgFIOK5w/versions/efxGc9E1/hud_texts_v3.2_1.20.1_[FORGE].jar",
+                    "id": "efxGc9E1",
+                    "parent_id": "sgFIOK5w",
+                    "hashes": {
+                        "sha512": "19b779194cf9764973138cdc148fd90c404ff43336eca7be5d3420ce813d2a6c97306d76d5507cf2a72624f5cce610db0283a178354628412d0ccc99fb72ef87",
+                        "sha1": "378dce93f96682f82109f5ec446833c82edab288"
+                    },
+                    "required_dependencies": [],
+                    "size": 411679,
+                    "date_published": "2024-12-01T23:19:52.906274Z"
                 }
             ]
         },
@@ -7861,6 +8013,43 @@
             ]
         },
         {
+            "pakku_id": "t1iHHdnqojgRm5vX",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spice-of-life-carrot-edition"
+            },
+            "name": {
+                "curseforge": "Spice of Life: Carrot Edition"
+            },
+            "id": {
+                "curseforge": "277616"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "solcarrot-1.20.1-1.15.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4888/575/solcarrot-1.20.1-1.15.1.jar",
+                    "id": "4888575",
+                    "parent_id": "277616",
+                    "hashes": {
+                        "sha1": "f7fa1fd0c633b10f98d7f0f97766b95aac1a2dc0",
+                        "md5": "3b143c8d252b51221b5e85724c00171c"
+                    },
+                    "required_dependencies": [],
+                    "size": 104185,
+                    "date_published": "2023-11-21T22:21:12.127Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "J4UA2uDCGk4hKQHn",
             "type": "MOD",
             "side": "BOTH",
@@ -9415,6 +9604,69 @@
                     "required_dependencies": [],
                     "size": 7997,
                     "date_published": "2023-11-20T20:55:45.500Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "owPvMB3yAJkmbxIR",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ichunutil",
+                "modrinth": "ichunutil"
+            },
+            "name": {
+                "curseforge": "iChunUtil",
+                "modrinth": "iChunUtil"
+            },
+            "id": {
+                "curseforge": "229060",
+                "modrinth": "W6ROj0Hl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "iChunUtil-1.20.1-Forge-1.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6000/481/iChunUtil-1.20.1-Forge-1.0.3.jar",
+                    "id": "6000481",
+                    "parent_id": "229060",
+                    "hashes": {
+                        "sha1": "6e7f110cb4ef9c22bf557cd54248546548d56c66",
+                        "md5": "829d7caf55b2d266d7a901289f772f9a"
+                    },
+                    "required_dependencies": [],
+                    "size": 692753,
+                    "date_published": "2024-12-18T01:06:34.143Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "iChunUtil-1.20.1-Forge-1.0.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/W6ROj0Hl/versions/W6d0pCyu/iChunUtil-1.20.1-Forge-1.0.3.jar",
+                    "id": "W6d0pCyu",
+                    "parent_id": "W6ROj0Hl",
+                    "hashes": {
+                        "sha512": "680706f314c57b219f352631da8d2f9b948d1439d73e4dae83dbfd1180dfd0d646db67c7ef8683d6c2ffd90221a5e9838151ab3a4bcaabe31f64b4bed71e564c",
+                        "sha1": "6e7f110cb4ef9c22bf557cd54248546548d56c66"
+                    },
+                    "required_dependencies": [],
+                    "size": 692753,
+                    "date_published": "2024-12-18T01:06:39.190413Z"
                 }
             ]
         },
