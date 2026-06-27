@@ -1,0 +1,5 @@
+{
+  "jadeaddons": {
+    "equipment_requirement": "kubejs:jade_enabled"
+  }
+}
