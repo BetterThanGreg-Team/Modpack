@@ -6,6 +6,7 @@
 ## Runtime & Caches
 .sable/
 .mixin.out/
+cache/
 usercache.json
 usernamecache.json
 ponders_watched.json
