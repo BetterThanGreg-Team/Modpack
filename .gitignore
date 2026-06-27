@@ -1,0 +1,37 @@
+# Devenv
+.devenv/
+
+# Minecraft
+
+## Runtime & Caches
+.sable/
+.mixin.out/
+usercache.json
+usernamecache.json
+ponders_watched.json
+icon.png
+
+## Logs & Reports
+logs/
+crash-reports/
+
+## Mods & Downloads
+coremods/
+mods/
+downloads/
+
+## User Data & Assets
+options.txt
+saves/
+schematics/
+screenshots/
+resourcepacks/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+
+## Configuration
+!config/
+config/*
+!config/modpack_defaults/
+!config/modpack_defaults/**

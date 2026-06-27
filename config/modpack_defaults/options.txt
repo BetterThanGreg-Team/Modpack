@@ -1,0 +1,10 @@
+enableVsync:true
+fullscreen:true
+guiScale:2
+maxFps:260
+narrator:0
+renderDistance:12
+simulationDistance:12
+advancedItemTooltips:true
+soundCategory_master:0.5
+soundCategory_music:0.2
