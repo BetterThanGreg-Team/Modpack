@@ -8,3 +8,7 @@ simulationDistance:12
 advancedItemTooltips:true
 soundCategory_master:0.5
 soundCategory_music:0.2
+key_gui.xaero_open_map:key.keyboard.j
+key_key.spyglass-improvements.use:key.keyboard.c
+key_key.curios.open.desc:key.keyboard.unknown
+key_key.kubejs.kubedex:key.keyboard.unknown

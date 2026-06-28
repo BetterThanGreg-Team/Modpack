@@ -8,6 +8,8 @@
 .mixin.out/
 cache/
 gtceu/
+xaero/
+XaeroWaypoints*/
 usercache.json
 usernamecache.json
 ponders_watched.json
@@ -45,3 +47,7 @@ local/kubejs/
 config/*
 !config/modpack_defaults/
 !config/modpack_defaults/**
+
+# Pakku
+
+build/
